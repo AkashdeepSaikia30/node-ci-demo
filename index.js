@@ -5,3 +5,6 @@ function add(a, b) {
 console.log(add(5, 10));
 
 module.exports = add;
+
+// Intentional error for Part J
+console.log(undefinedVariable);
