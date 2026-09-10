@@ -1,3 +1,5 @@
+/* global test, expect */
+
 const add = require("../index");
 
 test("adds 5 + 10", () => {
